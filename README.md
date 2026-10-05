@@ -56,45 +56,45 @@ The following table lists commercial SaaS and enterprise solutions for local adm
 
 ## 🔓 Open-Source GitHub Projects
 
-Community-driven open-source projects, secrets management engines, and rotation utilities. Sorted by **GitHub Star Count** (descending):
+Community-driven open-source projects, secrets management engines, and rotation utilities. Sorted by **GitHub Stars_Count** (descending):
 
-1. **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers) 🔑  
+1. **[HashiCorp Vault](https://github.com/hashicorp/vault)** [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/vault?style=social&color=white)](https://github.com/hashicorp/vault/stargazers) 🔑  
    Identity-based secret and encryption management engine capable of dynamic local admin credential generation, vaulting, and rotation.
 
-2. **[Infisical](https://github.com/Infisical/infisical)** [![GitHub stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers) ⚡  
+2. **[Infisical](https://github.com/Infisical/infisical)** [![GitHub_Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers) ⚡  
    Open-source secret management platform for centralizing local administrator credentials, API keys, and environment configurations.
 
-3. **[KeePassXC](https://github.com/keepassxreboot/keepassxc)** [![GitHub stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=social&color=white)](https://github.com/keepassxreboot/keepassxc/stargazers) 🛡️  
+3. **[KeePassXC](https://github.com/keepassxreboot/keepassxc)** [![GitHub_Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=social&color=white)](https://github.com/keepassxreboot/keepassxc/stargazers) 🛡️  
    Cross-platform community password manager used for storing rotated local administrator passwords with encrypted database files.
 
-4. **[Teleport](https://github.com/gravitational/teleport)** [![GitHub stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers) 🌐  
+4. **[Teleport](https://github.com/gravitational/teleport)** [![GitHub_Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers) 🌐  
    Identity-native infrastructure access management providing Just-In-Time elevation, zero-trust access control, and session auditing.
 
-5. **[Bitwarden Server](https://github.com/bitwarden/server)** [![GitHub stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers) 🔒  
+5. **[Bitwarden Server](https://github.com/bitwarden/server)** [![GitHub_Stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers) 🔒  
    Open-source password management backend infrastructure for storing, sharing, and auditing administrative credentials across organizations.
 
-6. **[Wazuh](https://github.com/wazuh/wazuh)** [![GitHub stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) 📊  
+6. **[Wazuh](https://github.com/wazuh/wazuh)** [![GitHub_Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) 📊  
    Open-source security monitoring platform used to track local administrator password changes, privilege elevation events, and file integrity.
 
-7. **[OpenBao](https://github.com/openbao/openbao)** [![GitHub stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers) 📦  
+7. **[OpenBao](https://github.com/openbao/openbao)** [![GitHub_Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers) 📦  
    Community-governed open-source fork of Vault for managing, auditing, and rotating sensitive local administrator secrets.
 
-8. **[Google Santa](https://github.com/google/santa)** [![GitHub stars](https://img.shields.io/github/stars/google/santa?style=social&color=white)](https://github.com/google/santa/stargazers) 🍏  
+8. **[Google Santa](https://github.com/google/santa)** [![GitHub_Stars](https://img.shields.io/github/stars/google/santa?style=social&color=white)](https://github.com/google/santa/stargazers) 🍏  
    macOS binary authorization system providing application execution control and endpoint privilege containment for Apple fleets.
 
-9. **[Kansa](https://github.com/davehull/Kansa)** [![GitHub stars](https://img.shields.io/github/stars/davehull/Kansa?style=social&color=white)](https://github.com/davehull/Kansa/stargazers) 💻  
+9. **[Kansa](https://github.com/davehull/Kansa)** [![GitHub_Stars](https://img.shields.io/github/stars/davehull/Kansa?style=social&color=white)](https://github.com/davehull/Kansa/stargazers) 💻  
    PowerShell-based incident response framework useful for inspecting, auditing, and querying local administrator accounts across fleets.
 
-10. **[CyberArk Conjur Open Source](https://github.com/cyberark/conjur)** [![GitHub stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers) 🔒  
+10. **[CyberArk Conjur Open Source](https://github.com/cyberark/conjur)** [![GitHub_Stars](https://img.shields.io/github/stars/cyberark/conjur?style=social&color=white)](https://github.com/cyberark/conjur/stargazers) 🔒  
     Privileged access management and secret retrieval engine designed for infrastructure, cloud tools, and DevOps automation.
 
-11. **[macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS)** [![GitHub stars](https://img.shields.io/github/stars/joshua-d-miller/macOSLAPS?style=social&color=white)](https://github.com/joshua-d-miller/macOSLAPS/stargazers) 🍎  
+11. **[macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS)** [![GitHub_Stars](https://img.shields.io/github/stars/joshua-d-miller/macOSLAPS?style=social&color=white)](https://github.com/joshua-d-miller/macOSLAPS/stargazers) 🍎  
     Open-source utility that automatically rotates local administrator passwords on macOS endpoints and syncs values to Active Directory or MDM.
 
-12. **[Lithnet Access Manager](https://github.com/lithnet/access-manager)** [![GitHub stars](https://img.shields.io/github/stars/lithnet/access-manager?style=social&color=white)](https://github.com/lithnet/access-manager/stargazers) 🌐  
+12. **[Lithnet Access Manager](https://github.com/lithnet/access-manager)** [![GitHub_Stars](https://img.shields.io/github/stars/lithnet/access-manager?style=social&color=white)](https://github.com/lithnet/access-manager/stargazers) 🌐  
     Web front-end for Microsoft LAPS password retrieval, BitLocker recovery key access, and Just-In-Time local admin elevation workflows.
 
-13. **[SLAPS (Serverless LAPS)](https://github.com/jseerden/SLAPS)** [![GitHub stars](https://img.shields.io/github/stars/jseerden/SLAPS?style=social&color=white)](https://github.com/jseerden/SLAPS/stargazers) ☁️  
+13. **[SLAPS (Serverless LAPS)](https://github.com/jseerden/SLAPS)** [![GitHub_Stars](https://img.shields.io/github/stars/jseerden/SLAPS?style=social&color=white)](https://github.com/jseerden/SLAPS/stargazers) ☁️  
     PowerShell serverless approach for rotating local administrator passwords on Windows endpoints and storing secrets in Azure Key Vault.
 
 ---
@@ -114,7 +114,7 @@ Contributions are welcome! To add a new platform or open-source tool:
 
 1. Fork this repository.
 2. Update `README.md` following the established table or list format.
-3. Include product name, official link, short description, pricing/star badge, and license details.
+3. Include product name, official link, short description, pricing/Stars_Badge, and license details.
 4. Submit a Pull Request with a clear description of your additions.
 
 Read our curated awesome directory at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
